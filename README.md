@@ -17,3 +17,6 @@
 ## Comandos Git
 
 - git -v (verifica a versão do git)
+- git config --global user.name "GustavoORl"
+- git config --global user.email "gustavo.orl19@gmail.com"
+- git init (inicia o git em um projeto ou pasta)
