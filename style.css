@@ -10,7 +10,24 @@
 }
 
 #menu{
+    display: grid;
     width: 100%;
     height: 10vh;
     background-color: orange;
+    grid-template-areas: "comum"
+                         "categoria";
+    
+
+}
+
+#menu-comum{
+ grid-area: comum;
+}
+
+#menu-categoria{
+grid-area: categoria;
+}
+
+#header{
+    
 }
